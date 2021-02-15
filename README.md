@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white"/>
   <br/>  
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>
 </div>
 <!--
