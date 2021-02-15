@@ -1,7 +1,9 @@
 ### Hi there 🌱
 
-<div align="center">
-  e
+<div align="center">  
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js"/>
 </div>
 <!--
 **oktrees/oktrees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
