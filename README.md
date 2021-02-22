@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo-GraphQL&logoColor=white"/>
   <br/>  
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CI4-EF4223?logo=CodeIgniter&logoColor=white"/>
