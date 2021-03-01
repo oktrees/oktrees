@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Apollo-311C87?logo=Apollo-GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=GraphQL&logoColor=white"/>
